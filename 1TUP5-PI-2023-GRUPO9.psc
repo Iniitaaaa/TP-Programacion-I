@@ -2,7 +2,7 @@ Proceso sin_titulo
 	Definir otra_opc Como Caracter
 	Definir  opc, dia, hora Como Entero
 	Definir uno_uno, uno_dos, uno_tres, dos_uno, dos_dos, dos_tres, tres_uno, tres_dos, tres_tres, cua_uno, cua_dos, cua_tres, cin_uno, cin_dos, cin_tres Como Logico
-
+	//cada logico toma el valor falso automaticamente. Usamos variables logicas para que no se puedan tomar los horarios dos veces en el mismo dia.
 
 	Escribir "SISTEMA DE RESERVA VOLLEY"
 	Hacer
